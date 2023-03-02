@@ -14,9 +14,9 @@ export default function CoveredCard() {
                     <p>AI Powered Cover Letter Generation</p>
                     <hr></hr>
                     <p className="lead">
-                        <Link to="https://hecedu.github.io/Covered/" className='btn btn-info btn-lg shadow'>
+                        <a href="https://hecedu.github.io/Covered/" className='btn btn-info btn-lg shadow'>
                             Create a Cover Letter
-                        </Link>
+                        </a>
                     </p>
                 </div>
             </div>
