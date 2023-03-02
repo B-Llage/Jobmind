@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Jobmind/static/css/main.5a9b08a7.css",
-    "main.js": "/Jobmind/static/js/main.d7ed01ab.js",
+    "main.js": "/Jobmind/static/js/main.9e262568.js",
     "static/js/787.9785b363.chunk.js": "/Jobmind/static/js/787.9785b363.chunk.js",
     "index.html": "/Jobmind/index.html",
     "main.5a9b08a7.css.map": "/Jobmind/static/css/main.5a9b08a7.css.map",
-    "main.d7ed01ab.js.map": "/Jobmind/static/js/main.d7ed01ab.js.map",
+    "main.9e262568.js.map": "/Jobmind/static/js/main.9e262568.js.map",
     "787.9785b363.chunk.js.map": "/Jobmind/static/js/787.9785b363.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a9b08a7.css",
-    "static/js/main.d7ed01ab.js"
+    "static/js/main.9e262568.js"
   ]
 }
