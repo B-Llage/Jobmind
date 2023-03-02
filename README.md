@@ -1,2 +1,0 @@
-# Jobmind
-# Jobmind
