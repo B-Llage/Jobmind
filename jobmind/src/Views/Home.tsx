@@ -29,7 +29,7 @@ export default function Home() {
                         <FadeIn transitionDuration={400} delay={200}>
                             <div className='bg-black '>
                                 <h1 className='display-1 fw-bold text-white text-start'>
-                                    Get the Edge in Your Job Search with AI Technology
+                                    Elevate Your Business with AI Technology
                                 </h1>
                             </div>
                             <div className='w-100 d-flex justify-content-center'>
@@ -40,7 +40,7 @@ export default function Home() {
                     <div>
                     </div>
                 </div>
-                
+
                 <CoveredCard />
 
                 <div className='container w-auto mx-3 bg-light rounded-3 p-5 mb-5'>
