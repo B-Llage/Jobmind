@@ -13,7 +13,7 @@ export default function CoveredCard() {
                     <p>AI Powered Cover Letter Generation</p>
                     <hr></hr>
                     <p className="lead">
-                        <a href="https://hecedu.github.io/Covered/" className='btn btn-info btn-lg shadow'>
+                        <a href="https://covered.jobmindai.xyz/" className='btn btn-info btn-lg shadow'>
                             Create a Cover Letter
                         </a>
                     </p>

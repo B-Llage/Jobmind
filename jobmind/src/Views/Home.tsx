@@ -40,6 +40,7 @@ export default function Home() {
                     <div>
                     </div>
                 </div>
+                
                 <CoveredCard />
 
                 <div className='container w-auto mx-3 bg-light rounded-3 p-5 mb-5'>
@@ -51,7 +52,7 @@ export default function Home() {
                     </h1>
                     <hr></hr>
                     <div className='d-flex justify-content-center'>
-                        <Link to={"/coverlettergenerator"} className='btn btn-primary shadow p-4 disabled'>Coming Soon</Link>
+                        <Link to={"/"} className='btn btn-primary shadow p-4 disabled'>Coming Soon</Link>
                     </div>
 
                 </div>
