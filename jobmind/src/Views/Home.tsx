@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom';
 import { linksOptions } from '../Presets/Particles/Particles';
 
 export default function Home() {
-  
+
     const particlesInit = async (main: Engine) => {
         console.log(main);
 
@@ -28,14 +28,12 @@ export default function Home() {
                     <div className='mb-1 d-flex align-items-center main-banner'>
                         <FadeIn transitionDuration={400} delay={200}>
                             <div className='bg-black '>
-                            <h1 className='display-1 fw-bold text-white text-start'>
-                                Get the Edge in Your Job Search with AI Technology
-                            </h1>
+                                <h1 className='display-1 fw-bold text-white text-start'>
+                                    Get the Edge in Your Job Search with AI Technology
+                                </h1>
                             </div>
                             <div className='w-100 d-flex justify-content-center'>
-                                <a className='text-center'>
-                                    <AiFillCaretDown className="text-white p-0 mt-5 zoom" size={60} />
-                                </a>
+                                <AiFillCaretDown className="text-white p-0 mt-5 zoom" size={60} />
                             </div>
                         </FadeIn>
                     </div>
@@ -68,5 +66,5 @@ export default function Home() {
             </div>
         </div>
 
-  )
+    )
 }

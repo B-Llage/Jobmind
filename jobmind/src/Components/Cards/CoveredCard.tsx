@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
 import { containerStyle } from '../../Presets/Bootstrap/DefaultStyles';
 
 export default function CoveredCard() {
