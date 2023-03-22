@@ -26,14 +26,14 @@ export default function Home() {
 
             <CoveredCard />
 
-            <div className='container w-auto mx-3 bg-black border border-2 border-white rounded-3 p-5 mb-5'>
-                <h1 className='display-5 fw-bold text-center text-success'>
+            <div className='container w-100 bg-black border border-2 border-white rounded-3 p-5 mb-5'>
+                <h1 className='display-5 fw-bold text-center text-white'>
                     Intergenie
                 </h1>
-                <h1 className='text-center text-white'>
-                    Practice for technical questions with the help of AI
-                </h1>
-                <hr></hr>
+                <h5 className='text-center text-white'>
+                    Our next revolutionary tool
+                </h5>
+                <hr className='text-white'></hr>
                 <div className='d-flex justify-content-center'>
                     <Link to={"/"} className='btn btn-dark border border-white border-2 shadow p-4 disabled'>Coming Soon</Link>
                 </div>

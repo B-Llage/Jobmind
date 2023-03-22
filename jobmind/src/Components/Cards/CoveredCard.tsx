@@ -10,11 +10,11 @@ export default function CoveredCard() {
                     <div className="d-flex justify-content-center align-items-bottom">
                         <h5 className="my-1 display-5 fw-bold h-auto px-2 w-auto">Covered</h5>
                     </div>
-                    <p>AI Powered Cover Letter Generation</p>
+                    <h5>AI Powered Cover Letter Generation</h5>
                     <hr></hr>
                     <p className="lead">
-                        <a href="https://covered.jobmindai.xyz/" className='btn btn-info btn-lg shadow'>
-                            Create a Cover Letter
+                        <a href="https://covered.jobmindai.xyz/" className='btn btn-info btn-lg shadow p-3'>
+                            Generate a Cover Letter
                         </a>
                     </p>
                 </div>
