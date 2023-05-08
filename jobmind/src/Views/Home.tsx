@@ -10,7 +10,7 @@ export default function Home() {
             <FadeIn transitionDuration={400} delay={200}>
                 <div className='bg-black p-5 w-100 rounded border border-2 border-white mt-5'>
                     <h1 className='display-1 fw-bold text-white text-start'>
-                        Elevate Your Business with AI Technology
+                        Elevate Your Career with AI Technology
                     </h1>
                 </div>
                 <div className='w-100 d-flex justify-content-center'>
