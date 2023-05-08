@@ -13,7 +13,7 @@ export default function Home() {
                         Elevate Your Career with AI Technology
                     </h1>
                     <div className='d-flex justify-content-start mt-4'>
-                        <a href="https://www.producthunt.com/posts/jobmind-ai?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-jobmind&#0045;ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=393236&theme=light" alt="JobMind&#0032;AI - Elevate&#0032;your&#0032;career&#0032;with&#0032;AI&#0032;technology | Product Hunt" width="250" height="54" /></a>
+                        <a href="https://www.producthunt.com/posts/jobmind-ai?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-jobmind&#0045;ai"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=393236&theme=light" alt="JobMind&#0032;AI - Elevate&#0032;your&#0032;career&#0032;with&#0032;AI&#0032;technology | Product Hunt" width="250" height="54" /></a>
                     </div>
                 </div>
                 <div className='w-100 d-flex justify-content-center'>
